@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T18:04:47.029Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VvznDKClTQW9GvCVwSwq" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T18:07:04.892Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Gom5R8rUSctmjiL-fbNH" version="24.4.13" type="github">
   <diagram name="Page-1" id="YwyaiJk9tJbsXuyATQ5N">
-    <mxGraphModel dx="3349" dy="2970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3640" dy="3250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-75" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="3330" y="-1280" width="720" height="550" as="geometry" />
+        </mxCell>
         <mxCell id="vYiJiVlmRmZpSL4FsiM5-243" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="325" width="600" height="555" as="geometry" />
         </mxCell>
@@ -1010,7 +1013,7 @@
         <mxCell id="HwA-2V8XERbu6WdYJ0sU-12" value="&lt;div&gt;backbone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2690" y="-1280" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HwA-2V8XERbu6WdYJ0sU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="HwA-2V8XERbu6WdYJ0sU-13">
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HwA-2V8XERbu6WdYJ0sU-13" target="HwA-2V8XERbu6WdYJ0sU-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3320" y="-970" as="targetPoint" />
           </mxGeometry>
@@ -1191,10 +1194,13 @@
           <mxGeometry x="3350" y="-950" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HwA-2V8XERbu6WdYJ0sU-72" value="residue block - &lt;font color=&quot;#ff0000&quot;&gt;96&lt;/font&gt; to &lt;font color=&quot;#00ff80&quot;&gt;128&lt;/font&gt;, downsample &lt;font color=&quot;#0000ff&quot;&gt;2x&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="-890" width="140" height="40" as="geometry" />
+          <mxGeometry x="3350" y="-900" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HwA-2V8XERbu6WdYJ0sU-73" value="residue block 128 to 128 - no downsample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="-840" width="140" height="40" as="geometry" />
+          <mxGeometry x="3350" y="-850" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-74" value="Conv2D&amp;nbsp; 128-&amp;gt;128; K1&lt;br&gt;(channel projection)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="-800" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
