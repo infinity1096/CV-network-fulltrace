@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T00:32:00.663Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="5C8pP52PYMZofcpOJs-B" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T19:12:10.254Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="iOo-F3VGraRoHPv7F4E_" version="24.4.13" type="github">
   <diagram name="Page-1" id="YwyaiJk9tJbsXuyATQ5N">
-    <mxGraphModel dx="6826" dy="5500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="11393" dy="9900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1708,6 +1708,54 @@
             <mxPoint x="2509.76" y="-532" as="sourcePoint" />
             <mxPoint x="2510" y="-490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-242" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="-360" as="sourcePoint" />
+            <mxPoint x="1400" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-243" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="-240" as="sourcePoint" />
+            <mxPoint x="1260" y="-480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-244" value="VP difference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1413.75" y="-377" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-245" value="VP difference" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-524.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-246" value="Trivial" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="853.75" y="-383.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-247" value="VP robust feature on human &amp;amp; close object" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="933.75" y="-383.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-248" value="2D feature on human" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="853.75" y="-303.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-249" value="VP robust feature on human" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="933.75" y="-303.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-251" value="No" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="853.75" y="-423.25" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-252" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="933.75" y="-423.25" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-253" value="No" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="813.75" y="-383.25" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-254" value="Yes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="813.75" y="-303.25" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-255" value="&lt;div align=&quot;center&quot;&gt;Time change?&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="713.75" y="-323.25" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-256" value="Viewpoint change?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="853.75" y="-460.75" width="160" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
