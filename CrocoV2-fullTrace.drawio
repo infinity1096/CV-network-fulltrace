@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:32:32.815Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="VIsNhkxxj0e777e2q0VY" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T15:32:47.238Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="LOZrsPzjFCEJ7Ybe1UA5" version="24.4.14" type="github">
   <diagram name="Page-1" id="YwyaiJk9tJbsXuyATQ5N">
     <mxGraphModel dx="4397" dy="3136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -1771,31 +1771,31 @@
             <mxPoint y="-33" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-27" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-27" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-28" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="400" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-29" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-29" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="440" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-30" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="480" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-31" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-31" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-32" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="560" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-33" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-33" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="600" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-34" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="640" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-35" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-35" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4690" y="680" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-36" value="Img1 hierarchical features" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
@@ -1847,31 +1847,31 @@
         <mxCell id="MnU58Au4fu0NHfsPFrAr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" parent="1" source="MnU58Au4fu0NHfsPFrAr-3" target="MnU58Au4fu0NHfsPFrAr-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-3" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-3" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="360" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-4" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="400" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-5" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-5" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="440" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-6" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="480" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-7" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-7" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-8" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="560" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-9" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-9" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="600" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-10" value="downsample 2x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="640" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-11" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-11" value="Feature Extractor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4490" y="680" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnU58Au4fu0NHfsPFrAr-12" value="Img0 hierarchical features" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
