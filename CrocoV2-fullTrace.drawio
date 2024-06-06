@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T15:27:23.716Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="D-um5kTcusiu12IaN3Qt" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T15:28:47.808Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="O3WhJOt8INTQbqsE20K6" version="24.4.14" type="github">
   <diagram name="Page-1" id="YwyaiJk9tJbsXuyATQ5N">
-    <mxGraphModel dx="4669" dy="3391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="3982" dy="2746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1596,7 +1596,7 @@
         <mxCell id="HwA-2V8XERbu6WdYJ0sU-205" value="Global Correlation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2697" y="-920" width="533" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HwA-2V8XERbu6WdYJ0sU-206" value="Attention with Q = feat0, K = feat1, V = coord of coarse match " style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;rounded=1;" parent="1" vertex="1">
+        <mxCell id="HwA-2V8XERbu6WdYJ0sU-206" value="&lt;div&gt;Attention with Q = feat0, K = feat1, V = coord of coarse match;&lt;/div&gt;&lt;div&gt;&lt;b&gt;minus original coord&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2300" y="-920" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HwA-2V8XERbu6WdYJ0sU-209" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.909;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="HwA-2V8XERbu6WdYJ0sU-213" edge="1">
@@ -1968,7 +1968,7 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnU58Au4fu0NHfsPFrAr-70" value="softmax fuse" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="MnU58Au4fu0NHfsPFrAr-70" value="softmax fuse flow" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4990" y="800" width="120" height="370" as="geometry" />
         </mxCell>
         <mxCell id="lsWgrGdTG_cTfy0GGh9j-64" value="" style="group" vertex="1" connectable="0" parent="1">
