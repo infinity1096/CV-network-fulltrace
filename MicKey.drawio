@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T22:07:53.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="LuprG3a3Ycv1qLy9EF6H" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T22:47:17.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="XJVxoW2Sny4ptYU2ruW9" version="24.6.4" type="github">
   <diagram name="Page-1" id="vxwASHul4JyoGBCq2_7Z">
-    <mxGraphModel dx="857" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="710" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-102" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="810" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-89" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="340" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="uR3X_ZQ54fD36TD81xBb-80" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1262.5" y="428.13" width="280" height="73.75" as="geometry" />
         </mxCell>
@@ -280,6 +286,87 @@
         </mxCell>
         <mxCell id="uR3X_ZQ54fD36TD81xBb-78" value="$$m$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="450" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-81" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;differentiable RANSAC&lt;/h1&gt;&lt;p&gt;Sampling key pair matchings from P, apply RANSAC with use Kabsch on pose hypothesis. &amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="169.68" y="600" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$P_{I \leftrightarrow I&#39;}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="197.18" y="760" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-83" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uR3X_ZQ54fD36TD81xBb-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="779.58" as="sourcePoint" />
+            <mxPoint x="360" y="779.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-84" value="$$p(\cdot|P_{I \leftrightarrow I&#39;})$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uR3X_ZQ54fD36TD81xBb-83">
+          <mxGeometry x="0.158" relative="1" as="geometry">
+            <mxPoint x="-17" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-85" value="sample&lt;div&gt;matching set&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="780" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-86" value="$$\mathcal Y = \{y_{i,j}^{(k)}\}_{k=1}^n$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="765" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-87" value="$$p(\mathcal Y | P_{I \leftrightarrow I&#39;}) = \prod_{k=1}^np(y_{i,j}^{(k)} | P_{I \leftrightarrow I&#39;}) = \prod_{k=1}^n P_{I \leftrightarrow I&#39;}[i^{(k)}, j^{(k)}]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-88" value="Y is sampled using a non-replacement multinomial distribution from probability of each match. A total of n samples will be drawn to form Y." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="840" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-91" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="780" as="sourcePoint" />
+            <mxPoint x="740" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-93" value="$$\{(\mathcal Y_k, p(\mathcal Y_k, P_{I \leftrightarrow I&#39;}))\}_{k=1}^K$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="765" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-97" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="800" as="sourcePoint" />
+            <mxPoint x="800" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-98" value="(minimal)&lt;div&gt;sample&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="810" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-99" value="$$\mathcal J_s = \{y_{i,j}^{(s)}\}_{s=1}^8$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-100" value="$$p(y^{(s)}_{i,j}) = P_{I \leftrightarrow I&#39;}[i^{(s)}, j^{(s)}]$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="815" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="890" as="sourcePoint" />
+            <mxPoint x="800" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-103" value="Kasbach" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uR3X_ZQ54fD36TD81xBb-101">
+          <mxGeometry x="-0.2238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-104" value="T&lt;div&gt;hypothesis&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="920" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-105" value="$$\mathcal T_s$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="950" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="797.21" y="980" as="sourcePoint" />
+            <mxPoint x="797.21" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-107" value="pose hypothesis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uR3X_ZQ54fD36TD81xBb-106">
+          <mxGeometry x="-0.0786" y="2" relative="1" as="geometry">
+            <mxPoint x="53" y="-33" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
