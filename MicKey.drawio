@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T23:51:44.401Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="ExIgTnXnPOKO44ACpj0G" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T23:51:53.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="5dWqjMxmU4KMFInlUodc" version="24.6.4" type="github">
   <diagram name="Page-1" id="vxwASHul4JyoGBCq2_7Z">
     <mxGraphModel dx="1461" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -479,7 +479,7 @@
             <mxPoint x="940" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uR3X_ZQ54fD36TD81xBb-136" value="$$\nabla_\theta \mathcal L(P_{I \leftrightarrow I&#39;}, \mathcal T_{gt}) = \mathbb E_{k \sim p(\cdot, P_{I \leftrightarrow I&#39;})}\left[\ell(\mathcal Y_k, \mathcal T_{gt}) \sum_{h=1}^n \nabla_\theta \log\left(P_{I \leftrightarrow I&#39;}[i^{(h)}, j^{(h)}]\right) + \nabla_\theta \ell (\mathcal Y_k, \mathcal T_{gt})\right]$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-136" value="$$\nabla_\theta \mathcal L(P_{I \leftrightarrow I&#39;}, \mathcal T_{gt}) = \mathbb E_{k \sim p(\cdot, P_{I \leftrightarrow I&#39;})}\left[\ell(\mathcal Y_k, \mathcal T_{gt}) \sum_{h=1}^n \nabla_\theta \log\left(P_{I \leftrightarrow I&#39;}[i^{(h)}, j^{(h)}]\right) + \nabla_\theta \ell (\mathcal Y_k, \mathcal T_{gt})\right]$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="565" y="1560" width="555" height="120" as="geometry" />
         </mxCell>
       </root>
