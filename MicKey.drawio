@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-07T06:23:14.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="-NArAHuzYyfYHLA8Gc6-" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-07T06:34:50.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="DHcNRY4XsG-5azVe9fY9" version="24.6.4" type="github">
   <diagram name="Page-1" id="vxwASHul4JyoGBCq2_7Z">
-    <mxGraphModel dx="497" dy="1431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="1445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,36 @@
         </mxCell>
         <mxCell id="uR3X_ZQ54fD36TD81xBb-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="490" y="120" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-30" value="P(&lt;font face=&quot;Comic Sans MS&quot;&gt;Y&lt;/font&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="178.18" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288.18" y="294.8" as="sourcePoint" />
+            <mxPoint x="218.18" y="294.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-33" value="&lt;span style=&quot;white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;$$\Pi$$&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.18" y="270" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-34" value="P(y&lt;sub&gt;ij&lt;/sub&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-35" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-36" value="$$P_I(i), P_{I&#39;}(j)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="256" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-37" value="$$P_{I \to I&#39;}(j | i), P_{I \leftarrow I&#39;}(i | j)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="305" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-38" value="Probability of being a key point" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-39" value="Probability of being mutual best match" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="305" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
