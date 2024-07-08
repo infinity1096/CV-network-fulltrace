@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T00:06:44.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="mml4Oy6U_DK6UwrozHq3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-08T00:08:28.949Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" etag="-whnpxrhZTErLiu_CO59" version="24.6.4" type="github">
   <diagram name="Page-1" id="vxwASHul4JyoGBCq2_7Z">
-    <mxGraphModel dx="2070" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="828" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -502,6 +502,9 @@
         </mxCell>
         <mxCell id="uR3X_ZQ54fD36TD81xBb-143" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;VCRE Points&lt;/h1&gt;&lt;p&gt;196 points separated by 30cm along a 7x4x7 grid&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1750" y="902.5" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="uR3X_ZQ54fD36TD81xBb-144" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Null Hypothesis&lt;/h1&gt;&lt;p&gt;Additional score of added for softmax to assign weight to this invalid hypothesis. Invalid hypothesis have a loss of VCRE max.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1140" width="215" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
