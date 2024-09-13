@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" version="24.7.12">
   <diagram name="Page-1" id="OdBgKaAoPbrbGqz_YkZU">
-    <mxGraphModel dx="1024" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="2604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,7 +357,7 @@
           <mxGeometry x="1390" y="550" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fmZWrexEu-023-qv5tjz-119" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="135" width="200" height="210" as="geometry" />
+          <mxGeometry x="1430" y="135" width="200" height="255" as="geometry" />
         </mxCell>
         <mxCell id="fmZWrexEu-023-qv5tjz-121" value="ResidualConvUnit&lt;div&gt;(resConfUnit1)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1440" y="160" width="160" height="40" as="geometry" />
