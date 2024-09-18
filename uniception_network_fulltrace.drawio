@@ -823,7 +823,7 @@
         <mxCell id="77ttq8aSvg3NPXkEHwXX-127" value="bilinear upsample&lt;div&gt;target_shape&lt;br&gt;&lt;div&gt;align_corners=True&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4285" y="1550" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="77ttq8aSvg3NPXkEHwXX-128" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DPTRegressionProcessor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-128" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;DPTRegressionProcessor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4040" y="1205" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77ttq8aSvg3NPXkEHwXX-130" value="For simplicity, H, W in this diagram will be the number of patches" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -862,7 +862,7 @@
         <mxCell id="77ttq8aSvg3NPXkEHwXX-126" value="channel proj&lt;div&gt;FDim-&amp;gt;NChannels&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4285" y="1450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="77ttq8aSvg3NPXkEHwXX-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DPTSegmentationProcessor&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-136" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;DPTSegmentationProcessor&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4250" y="1205" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="77ttq8aSvg3NPXkEHwXX-137" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="77ttq8aSvg3NPXkEHwXX-115">
