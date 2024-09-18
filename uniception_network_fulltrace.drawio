@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.15" version="24.7.14">
   <diagram name="Page-1" id="OdBgKaAoPbrbGqz_YkZU">
-    <mxGraphModel dx="2070" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="990" width="320" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="fmZWrexEu-023-qv5tjz-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -873,6 +876,27 @@
               <mxPoint x="4250" y="1160" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="77ttq8aSvg3NPXkEHwXX-138" target="77ttq8aSvg3NPXkEHwXX-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-138" value="A PyTorch Module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="1000" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-139" value="Sequentially&lt;div&gt;Executed&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="1050" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="77ttq8aSvg3NPXkEHwXX-140" target="77ttq8aSvg3NPXkEHwXX-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-140" value="Custom Module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="1100" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-141" value="The module&#39;s definition" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3100" y="1055" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="77ttq8aSvg3NPXkEHwXX-143" value="share weights with&lt;div&gt;this module&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3100" y="1000" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
