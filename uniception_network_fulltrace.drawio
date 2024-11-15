@@ -1505,6 +1505,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="x1iran5d0OsqZvhx5CxH-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="x1iran5d0OsqZvhx5CxH-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5130" y="3275" as="sourcePoint" />
+            <mxPoint x="5170" y="3190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1iran5d0OsqZvhx5CxH-171" value="correlation&lt;div&gt;feature&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x1iran5d0OsqZvhx5CxH-167">
+          <mxGeometry x="-0.3189" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1iran5d0OsqZvhx5CxH-168" value="motion&lt;div&gt;encoder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5220" y="3200" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="x1iran5d0OsqZvhx5CxH-169" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.004;entryY=0.301;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="x1iran5d0OsqZvhx5CxH-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5130" y="3230" as="sourcePoint" />
+            <mxPoint x="5210" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1iran5d0OsqZvhx5CxH-170" value="flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x1iran5d0OsqZvhx5CxH-169">
+          <mxGeometry x="-0.3276" relative="1" as="geometry">
+            <mxPoint x="13" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
