@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="OdBgKaAoPbrbGqz_YkZU">
-    <mxGraphModel dx="421" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1736,13 +1736,13 @@
             <mxPoint x="5610" y="3560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1iran5d0OsqZvhx5CxH-225" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;K, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x1iran5d0OsqZvhx5CxH-225" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;K&lt;/font&gt;&lt;/b&gt;, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5550" y="3625" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="x1iran5d0OsqZvhx5CxH-226" value="sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5630" y="3625" width="50" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="x1iran5d0OsqZvhx5CxH-227" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;K, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x1iran5d0OsqZvhx5CxH-227" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;K&lt;/font&gt;&lt;/b&gt;, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5550" y="3720" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="x1iran5d0OsqZvhx5CxH-228" value="sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1819,7 +1819,7 @@
             <mxPoint x="5820" y="3620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x1iran5d0OsqZvhx5CxH-241" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;K, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x1iran5d0OsqZvhx5CxH-241" value="Conv2D&lt;div&gt;384-&amp;gt;128&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;K&lt;/font&gt;&lt;/b&gt;, same&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5770" y="3535" width="70" height="85" as="geometry" />
         </mxCell>
         <mxCell id="x1iran5d0OsqZvhx5CxH-242" value="tanh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
