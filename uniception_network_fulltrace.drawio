@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="OdBgKaAoPbrbGqz_YkZU">
-    <mxGraphModel dx="338" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="685" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1408,7 +1408,7 @@
         <mxCell id="x1iran5d0OsqZvhx5CxH-143" value="Output&lt;div&gt;Pyramid&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4628" y="3110" width="82" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="x1iran5d0OsqZvhx5CxH-144" value="grid_sample" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="x1iran5d0OsqZvhx5CxH-144" value="grid_sample&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(align_corners=True)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4740" y="3140" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x1iran5d0OsqZvhx5CxH-146" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="x1iran5d0OsqZvhx5CxH-150">
