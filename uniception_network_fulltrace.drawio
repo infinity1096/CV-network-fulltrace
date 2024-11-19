@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xavO2EXX1CEBSTZvLEIN-9" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="4070" y="2690" width="180" height="230" as="geometry" />
+          <mxGeometry x="3715" y="2800" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="x1iran5d0OsqZvhx5CxH-182" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="3005" y="1430" width="365" height="210" as="geometry" />
@@ -1894,19 +1894,19 @@
           <mxGeometry x="4080" y="2650" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xavO2EXX1CEBSTZvLEIN-5" value="meshgrid: (H, W)&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(-1+1/h, 1-1/h) x (-1+1/w, 1-1/w)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="2720" width="160" height="40" as="geometry" />
+          <mxGeometry x="3725" y="2830" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xavO2EXX1CEBSTZvLEIN-6" value="Channel Proj: 2-&amp;gt;512" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="2770" width="160" height="40" as="geometry" />
+          <mxGeometry x="3725" y="2880" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xavO2EXX1CEBSTZvLEIN-7" value="multiply: 8*pi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="2820" width="160" height="40" as="geometry" />
+          <mxGeometry x="3725" y="2930" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xavO2EXX1CEBSTZvLEIN-8" value="cos()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="2870" width="160" height="40" as="geometry" />
+          <mxGeometry x="3725" y="2980" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xavO2EXX1CEBSTZvLEIN-10" value="Position Encoding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4105" y="2690" width="110" height="30" as="geometry" />
+          <mxGeometry x="3750" y="2800" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
