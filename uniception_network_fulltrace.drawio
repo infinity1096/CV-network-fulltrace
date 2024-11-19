@@ -1908,6 +1908,9 @@
         <mxCell id="xavO2EXX1CEBSTZvLEIN-10" value="Position Encoding" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3750" y="2800" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xavO2EXX1CEBSTZvLEIN-11" value="K" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4040" y="2800" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
