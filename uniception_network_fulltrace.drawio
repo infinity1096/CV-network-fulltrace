@@ -2636,6 +2636,12 @@
         <mxCell id="RFAKqmVRo93HpAI-K6Ru-58" value="Aggregate pixels&lt;div&gt;in each patch&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1700" y="3312.5" width="105" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="RFAKqmVRo93HpAI-K6Ru-60" value="DINOv2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2065.5" y="3060" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFAKqmVRo93HpAI-K6Ru-61" value="DINOv2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1905.5" y="3060" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
