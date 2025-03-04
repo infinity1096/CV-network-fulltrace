@@ -54,7 +54,7 @@
         <mxCell id="D5LfymhE43uOESxTk_Lx-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="265.31" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="D5LfymhE43uOESxTk_Lx-71" value="Self Attention&lt;div&gt;Transformer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="D5LfymhE43uOESxTk_Lx-71" value="Self Attention&lt;div&gt;Blocks&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="300" y="77.5" width="90" height="245" as="geometry" />
         </mxCell>
         <mxCell id="D5LfymhE43uOESxTk_Lx-75" value="Global Attention Transformer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
