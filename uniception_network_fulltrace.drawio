@@ -2988,10 +2988,10 @@
         <mxCell id="aJVG9f_eEsYv-ab8gtH5-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Threshold" vertex="1">
           <mxGeometry height="35" width="64" x="4046" y="2930" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="M" vertex="1">
           <mxGeometry height="110" width="10" x="3590" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="17" vertex="1">
           <mxGeometry height="40" width="10" x="3590" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="Pm8Divxk4AeRCf7c53eB-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Previous&lt;div&gt;Memory&lt;/div&gt;&lt;div&gt;Tokens&lt;/div&gt;" vertex="1">
@@ -3006,13 +3006,13 @@
         <mxCell id="Pm8Divxk4AeRCf7c53eB-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cross&lt;div&gt;Attention&lt;/div&gt;&lt;div&gt;Transformer&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="80" x="3750" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="M+17" vertex="1">
           <mxGeometry height="160" width="10" x="3850" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="M" vertex="1">
           <mxGeometry height="110" width="10" x="4034.5" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="17" vertex="1">
           <mxGeometry height="40" width="10" x="4034.5" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="Pm8Divxk4AeRCf7c53eB-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Previous&lt;div&gt;Memory&lt;/div&gt;&lt;div&gt;Tokens&lt;/div&gt;" vertex="1">
@@ -3027,7 +3027,7 @@
         <mxCell id="Pm8Divxk4AeRCf7c53eB-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cross&lt;div&gt;Attention&lt;/div&gt;&lt;div&gt;Transformer&lt;/div&gt;" vertex="1">
           <mxGeometry height="210" width="80" x="4194.5" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="M+17" vertex="1">
           <mxGeometry height="160" width="10" x="4294.5" y="3640" as="geometry" />
         </mxCell>
         <mxCell id="Pm8Divxk4AeRCf7c53eB-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
@@ -3090,16 +3090,16 @@
         <mxCell id="Pm8Divxk4AeRCf7c53eB-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="40" width="10" x="4171.25" y="4080" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="M" vertex="1">
           <mxGeometry height="110" width="10" x="3720" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="17" vertex="1">
           <mxGeometry height="40" width="10" x="3720" y="3760" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="M" vertex="1">
           <mxGeometry height="110" width="10" x="4164" y="3640" as="geometry" />
         </mxCell>
-        <mxCell id="Pm8Divxk4AeRCf7c53eB-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+        <mxCell id="Pm8Divxk4AeRCf7c53eB-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="17" vertex="1">
           <mxGeometry height="40" width="10" x="4164" y="3760" as="geometry" />
         </mxCell>
         <mxCell id="Pm8Divxk4AeRCf7c53eB-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
