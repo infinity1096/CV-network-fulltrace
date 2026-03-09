@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.3.8">
   <diagram name="Page-1" id="OdBgKaAoPbrbGqz_YkZU">
-    <mxGraphModel dx="1598" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1731" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3162,8 +3162,8 @@
         <mxCell id="Pm8Divxk4AeRCf7c53eB-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N*7+4" vertex="1">
           <mxGeometry height="30" width="60" x="3859" y="3960" as="geometry" />
         </mxCell>
-        <mxCell id="0y8kjhcUFOABXfqf_EgE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="160" width="580" x="-820" y="4120" as="geometry" />
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="90" width="580" x="-820" y="4120" as="geometry" />
         </mxCell>
         <mxCell id="0y8kjhcUFOABXfqf_EgE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="view 1 tokens" vertex="1">
           <mxGeometry height="20" width="80" x="-780" y="4080" as="geometry" />
@@ -3176,6 +3176,24 @@
         </mxCell>
         <mxCell id="0y8kjhcUFOABXfqf_EgE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="view N tokens" vertex="1">
           <mxGeometry height="20" width="80" x="-360" y="4080" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Self Attention" vertex="1">
+          <mxGeometry height="30" width="110" x="-795" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Self Attention" vertex="1">
+          <mxGeometry height="30" width="110" x="-655" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Self Attention" vertex="1">
+          <mxGeometry height="30" width="110" x="-515" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Self Attention" vertex="1">
+          <mxGeometry height="30" width="115" x="-375" y="4130" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Global Attention" vertex="1">
+          <mxGeometry height="30" width="535" x="-795" y="4170" as="geometry" />
+        </mxCell>
+        <mxCell id="0y8kjhcUFOABXfqf_EgE-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Info-Sharing Mechanism: Global Attention" vertex="1">
+          <mxGeometry height="20" width="230" x="-820" y="4210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
