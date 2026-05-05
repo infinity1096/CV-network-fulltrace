@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LQt2_Hfh7H6-ZKKHvrbg">
-    <mxGraphModel dx="1523" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,6 +197,45 @@
         </mxCell>
         <mxCell id="Kup8zPqzDn_rHlbHAEMb-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Different Patch Features" vertex="1">
           <mxGeometry height="30" width="90" x="690" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Model&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Metric&lt;/div&gt;&lt;div&gt;Formulation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="80" x="80" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-58" edge="1" parent="1" source="Kup8zPqzDn_rHlbHAEMb-57" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="680" as="sourcePoint" />
+            <mxPoint x="200" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PointMap (Metric)" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Relative Pose (Metric)" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="759.8" as="sourcePoint" />
+            <mxPoint x="200" y="759.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-64" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="680" as="sourcePoint" />
+            <mxPoint x="310" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-65" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="759.8" as="sourcePoint" />
+            <mxPoint x="310" y="759.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GT metric depth" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="GT metric pose" vertex="1">
+          <mxGeometry height="30" width="60" x="330" y="745" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
