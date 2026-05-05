@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LQt2_Hfh7H6-ZKKHvrbg">
-    <mxGraphModel dx="2028" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1523" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,6 +171,32 @@
         </mxCell>
         <mxCell id="Kup8zPqzDn_rHlbHAEMb-49" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="40" width="10" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Long and Heavy&lt;div&gt;Memory Encoding&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="120" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cross-Attention Decoding" vertex="1">
+          <mxGeometry height="30" width="240" x="560" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-53" edge="1" parent="1" source="Kup8zPqzDn_rHlbHAEMb-51" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="Kup8zPqzDn_rHlbHAEMb-52" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="130" as="sourcePoint" />
+            <mxPoint x="530" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-54" connectable="0" parent="Kup8zPqzDn_rHlbHAEMb-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Memory Tokens" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-55" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="Kup8zPqzDn_rHlbHAEMb-52" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="740" y="120" as="sourcePoint" />
+            <mxPoint x="780" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kup8zPqzDn_rHlbHAEMb-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Different Patch Features" vertex="1">
+          <mxGeometry height="30" width="90" x="690" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
