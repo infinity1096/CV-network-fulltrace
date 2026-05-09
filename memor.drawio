@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LQt2_Hfh7H6-ZKKHvrbg">
-    <mxGraphModel dx="1913" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2072" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -764,7 +764,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ebc9ULnVxRRsE4e9Y0SY-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;New Memory Tokens&lt;/font&gt;&lt;div&gt;&lt;font&gt;(after compression)&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="42.5" width="136.5" x="981.25" y="1197.5" as="geometry" />
+          <mxGeometry height="42.5" width="136.5" x="983.5" y="1213" as="geometry" />
         </mxCell>
         <mxCell id="Ebc9ULnVxRRsE4e9Y0SY-138" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#66FF66;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
