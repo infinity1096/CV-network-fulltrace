@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="LQt2_Hfh7H6-ZKKHvrbg">
-    <mxGraphModel dx="1548" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1672,11 +1672,11 @@
         <mxCell id="GmsEnBMyFxcbxnToJyvc-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{M&#39;}" vertex="1">
           <mxGeometry height="20" width="20" x="1950" y="2750" as="geometry" />
         </mxCell>
-        <mxCell id="GmsEnBMyFxcbxnToJyvc-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Self Attention" vertex="1">
-          <mxGeometry height="30" width="60" x="1700" y="2745" as="geometry" />
+        <mxCell id="GmsEnBMyFxcbxnToJyvc-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Self Attention&lt;div&gt;(Arch 0)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="60" x="1700" y="2732.5" as="geometry" />
         </mxCell>
-        <mxCell id="GmsEnBMyFxcbxnToJyvc-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Learnable query" vertex="1">
-          <mxGeometry height="30" width="60" x="1700" y="2865" as="geometry" />
+        <mxCell id="GmsEnBMyFxcbxnToJyvc-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Learnable query&lt;div&gt;(Arch 2, 3)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="1700" y="2860" as="geometry" />
         </mxCell>
         <mxCell id="GmsEnBMyFxcbxnToJyvc-10" edge="1" parent="1" source="GmsEnBMyFxcbxnToJyvc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GmsEnBMyFxcbxnToJyvc-14">
           <mxGeometry relative="1" as="geometry" />
@@ -1708,8 +1708,8 @@
         <mxCell id="GmsEnBMyFxcbxnToJyvc-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="{LQ}" vertex="1">
           <mxGeometry height="20" width="20" x="1790" y="2870" as="geometry" />
         </mxCell>
-        <mxCell id="GmsEnBMyFxcbxnToJyvc-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Learnable query assignment" vertex="1">
-          <mxGeometry height="60" width="60" x="1700" y="3000" as="geometry" />
+        <mxCell id="GmsEnBMyFxcbxnToJyvc-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Learnable query assignment&lt;div&gt;(Arch 4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1700" y="2990" as="geometry" />
         </mxCell>
         <mxCell id="GmsEnBMyFxcbxnToJyvc-32" edge="1" parent="1" source="GmsEnBMyFxcbxnToJyvc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
